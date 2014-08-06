@@ -1,0 +1,19 @@
+{
+  "name": "prime-generator",
+  "version": "0.0.0",
+  "description": "prime number generator",
+  "main": "main.js",
+  "dependencies": {
+    "webworker-threads": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@heroku.com:prime-generator.git"
+  },
+  "author": "pythagoras",
+  "license": "ISC"
+}
